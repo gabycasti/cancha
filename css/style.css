@@ -1,0 +1,78 @@
+#cancha {
+	background: #37AE12;
+	width: 700px;
+	height: 350px;
+	position:relative;
+	
+}
+
+
+#margen {
+	border-width: 5px;
+	border-color:white;
+	width:670px;
+	height: 320px;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-style:solid; 
+	position:absolute;
+
+}
+
+#cuadro_1 {
+	border-width: 5px;
+	border-color:white;
+	width:100px;
+	height: 150px;
+	margin-top: 90px;
+	margin-left: 10px;
+	border-style:solid; 
+	position:absolute;
+
+}
+
+#cuadro_2 {
+	border-width: 5px;
+	border-color:white;
+	width:100px;
+	height: 150px;
+	margin-top: 90px;
+	right: 0px;
+	margin-right:10px;
+	border-style:solid; 
+	position:absolute;
+
+}
+
+#centro {
+
+	border-width: 5px;
+	border-color:white;
+	border-radius:65px;
+	width:120px;
+	height: 120px;
+	border-style:solid; 
+	position:absolute;
+	left:295px; 
+	top:100px;
+}
+
+.pelota_1 {
+	top:100px;
+	position:absolute;
+	left: 100px;
+}
+
+.pelota_2 {
+	top:210px;
+	position:absolute;
+	right:125px;
+}
+
+.pelota_3 {
+	top:40px;
+	position:absolute;
+	left: 370px;
+}
+
+
